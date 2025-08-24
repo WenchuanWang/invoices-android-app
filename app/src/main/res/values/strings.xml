@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">invoices-android-app</string>
+    
+    <!-- Error Messages -->
+    <string name="error_empty_invoices">This is no invoices now, please come back later.</string>
+    <string name="error_malformed_json">Malformed Json, please try again later.</string>
+    <string name="error_general">Something went wrong, please try again later.</string>
+    
+    <!-- UI Labels -->
+    <string name="title_your_invoices">Your Invoices</string>
+    <string name="label_invoice">INVOICE %s</string>
+    <string name="label_quantity_hours">Quantity of hours: %s</string>
+    <string name="label_per_hour">%s per hour</string>
+    
+    <!-- Buttons -->
+    <string name="button_retry">Retry</string>
+</resources>
